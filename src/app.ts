@@ -97,4 +97,8 @@ function main() {
   window.requestAnimationFrame(update);
 }
 
+addEventListener("resize", () => {
+  init();
+});
+
 main();

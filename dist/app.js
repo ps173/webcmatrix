@@ -87,5 +87,8 @@ function main() {
     draw();
     window.requestAnimationFrame(update);
 }
+addEventListener("resize", () => {
+    init();
+});
 main();
 //# sourceMappingURL=app.js.map
