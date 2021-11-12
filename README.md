@@ -1,7 +1,7 @@
-# WEBMATRIX
+# WEBCMATRIX
 
 A falling matrix inspired from [cmatrix](https://github.com/abishekvashok/cmatrix/).
-Currently live [here](ps173.github.io/webmatrix)
+Currently live [here](ps173.github.io/webcmatrix)
 
 You can also tweak colors by setting color item in localstorage.
 
